@@ -9,7 +9,7 @@ variable "resourcegplocation" {
 
 variable "storageaccountname" {
   description = "This is the name of storage accoutn to be created"
-  default = "vishnustorageaccount"
+  default = "sanjaystorageaccount"
 }
 
 variable "tier" {

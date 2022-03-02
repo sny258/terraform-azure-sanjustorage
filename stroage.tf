@@ -1,4 +1,4 @@
-resource "azurerm_storage_account" "vishnustorage" {
+resource "azurerm_storage_account" "sanjaystorage" {
   name = var.storageaccountname
   resource_group_name = "TerraformRG"
   location = "East US"
